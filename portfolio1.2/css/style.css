@@ -1,0 +1,107 @@
+html{
+    background: url(../images/background.jpg) no-repeat center center fixed;
+}
+.prof-box {
+    width: 450px;
+    height: 450px;
+    background-color: salmon ;
+    opacity: 0.95;
+    padding: 40px;
+    color: white;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+
+}
+
+.prof-pic {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-color: sandybrown;
+    border-width: 4px;
+    border-radius: 50%;
+}
+h1{
+    font-weight: 100;
+    letter-spacing: 6;
+    font-size: 40px;
+}
+p{
+    font: weight 100; 
+    letter-spacing: 1;
+}
+.line-break {
+    width: 140px;
+    margin: 0 auto;
+    border-top: 1px solid white;
+}
+
+.social-icons {
+    font-size: 30px;
+}
+.social-icons a {
+    color: white;
+}
+.social-icons a :hover {
+    color: yellowgreen;
+}
+
+ul {
+    float: center;
+    list-style-type: none;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+ul li{
+    display: inline-block;
+}
+
+ul li a{
+    text-decoration: black;
+    text-emphasis: bold;
+    font: 1em "lucida sans unicode";
+    font-weight: 800;
+    color: black;
+    padding: 10px 20px;
+    border: 2px solid;
+    transition: 0.5s ease;
+}
+ul li a:hover{
+    background-color: burlywood;
+    color: black;
+}
+
+.prof-box2 {
+    width: 950px;
+    height: 650px;
+    background-color: bisque;
+    opacity: 0.95;
+    padding: 40px;
+    color: white;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+}
+.prof-pic2 {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: sandybrown;
+    border-width: 4px;
+    border-radius: 50%;
+}
+h2{
+    font-weight: 100;
+    letter-spacing: 6;
+    font-size: 40px;
+    color: darkred;
+}
+.abt{
+color: maroon;
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif ;
+}
